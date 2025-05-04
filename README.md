@@ -1,4 +1,6 @@
 <h4 align="centre">idk how to code err derp *picks my nose</h4>
+
+<p align="centre"> <image src="GAYY!.gif">
 <!--
 **residentevil2/residentevil2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
