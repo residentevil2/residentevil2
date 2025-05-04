@@ -1,6 +1,6 @@
-<h4 align="centre">idk how to code err derp *picks my nose</h4>
+<h4 align="center">idk how to code err derp *picks my nose</h4>
 
-<p align="centre"> <image src="8a22f273635e17d1fab3d9d4954953cc.gif">
+<p align="center"> <image src="8a22f273635e17d1fab3d9d4954953cc.gif">
 <!--
 **residentevil2/residentevil2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
