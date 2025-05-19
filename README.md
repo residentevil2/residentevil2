@@ -1,4 +1,4 @@
-<p align="center"> <image src=lalala.gif ">
+<p align="center"> <image src=la-la-la.gif ">
 <h4 align="center">read my straw o_O</h4><p align="center"><img src="guy.webp">
 
 <h6 align="center">ever growing stamp hoard</h6>
