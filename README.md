@@ -1,4 +1,5 @@
 <p align="center"> <image src=la-la-la.gif ">
+<h6 align="center">tldr fixations are bigbang and resident evil</h6>
 <br> <br>
 <br> <br>
 <image src="blurg.png" width="512" height="47">
