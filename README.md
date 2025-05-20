@@ -1,46 +1,4 @@
 <p align="center"> <image src=la-la-la.gif ">
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<?php
-session_start();
-$sesid = session_id();
- 
-
-if(!isset($_COOKIE['coki'])){
-setcookie("coki", "$sesid", time()+60);
-setcookie("tt", time()+60, time()+60);
-}
-if(isset($_COOKIE['coki'])){
-	if(time() > $_COOKIE['tt']){
-	echo "sss";
-	setcookie("coki", "", time()-60);
-	}
-
-	if($sesid == $_COOKIE['coki']){
-	      $count = file_get_contents("counter.txt");
-	      $count = trim($count);
-	      $count = $count + 1;
-	      $fl = fopen("counter.txt","w+");
-	      fwrite($fl,$count);
-	      fclose($fl);
-	      setcookie("coki", "Ok", time()+60);
-	} 
-	  
-
-}
-
- $count = file_get_contents("counter.txt");
- ?>
-<h1>Website Visitor Counter In PHP</h1>
-<br/>
-<h2>Visitor Counter : <?php echo $count; ?></h2>
-
-</body>
-</html>
 <br> <br>
 <h6 align="center">tldr fixations are bigbang and res evil</h6>
 <br> <br>
