@@ -10,4 +10,4 @@
 
 
 
-<a  <img src="https://lastfm-recently-played.vercel.app/api?user=ctrll000&footer_style=none&count=1&width=500&loved=true&header_style=wave&bg_color=00000025">
+<a  <img src="https://lastfm-recently-played.vercel.app/api?user=ctrll000&footer_style=nwave&count=1&width=500&loved=true&header_style=none&bg_color=00000025">
