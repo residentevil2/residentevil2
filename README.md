@@ -10,4 +10,4 @@
 
 
 
-<a href="https://www.last.fm/user/ctrll000"><img src="https://lastfm-recently-played.vercel.app/api?user=ctrll000&footer_style=compact_stats&count=1&width=500&loved=true&header_style=none&bg_color=FFFFFF00" alt="hai"> <br> </a> <br> <br> <br> 
+<a href="https://www.last.fm/user/ctrll000"><img src="https://lastfm-recently-played.vercel.app/api?user=ctrll000&footer_style=none&count=1&width=500&loved=true&header_style=none&bg_color=FFFFFF00"> <br> </a> <br> <br> <br> 
