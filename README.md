@@ -1,4 +1,4 @@
-<p align="center"> <image src=la-la-la.gif">
+<p align="center"> <image src=la-la-la.gif ">
 <br>
 <h6 align="center">tldr fixations are bigbang and res evil</h6>
 <br>
