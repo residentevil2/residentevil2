@@ -1,6 +1,6 @@
 <p align="center"> <image src=skeleton-running-past.gif ">
 <h5 align="center">changing my theme sorry for the mess :P </h5>
-<a  href="https://www.last.fm/user/ctrll000"><img src="https://lastfm-recently-played.vercel.app/api?user=ctrll000&footer_style=none&count=1&width=300&loved=true&header_style=none&bg_color=ffffff30"> <br>
+<a  href="https://www.last.fm/user/ctrll000"><img src="https://lastfm-recently-played.vercel.app/api?user=ctrll000&footer_style=none&count=1&width=300&loved=true&header_style=none&bg_color=ffffff30"><br>
 
 <br>
 <br>
