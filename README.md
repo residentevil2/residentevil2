@@ -1,6 +1,6 @@
 <p align="center"> <image src=la-la-la.gif ">
 <a  href="https://www.last.fm/user/ctrll000"><img src="https://lastfm-recently-played.vercel.app/api?user=ctrll000&footer_style=none&count=1&width=300&loved=true&header_style=none&bg_color=ffffff30"> <br>
-  <h5 align="center"">github theme due 2 change soon... cannot bare the thought of letting go of the bigbang hyperfix</h5>
+
 <br>
 <br>
 <p align="center"><img src="blurg.png" width="600" height="45"></p>
