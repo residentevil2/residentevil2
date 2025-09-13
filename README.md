@@ -2,6 +2,7 @@
 <h5 align="center">changing my theme sorry for the mess :P </h5>
 <a  href="https://www.last.fm/user/ctrll000"><img src="https://lastfm-recently-played.vercel.app/api?user=ctrll000&footer_style=none&count=1&width=300&loved=true&header_style=none&bg_color=ffffff30"> <br>
 <h6 align="center"> ok why is my last fm thing over there </h6>
+  <h6 align="center"> ok why is that underlined</h6>
 <br>
 <br>
 <p align="center"><img src="blurg.png" width="600" height="45"></p>
