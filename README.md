@@ -5,5 +5,5 @@
   
  <br>
 <h4 align="center">hi i need to add all my stamps back. whatever</h4> 
-<p align="center"> <image src="re1 2.png">
+<p align="center"> <image src="re1 2.png"><image src="beatles.png"><image src="fiona.gif"><image src="pathologic.gif"><image src="psychonaut4.gif"><image src="shadow.gif"><image src="sigma.gif"><image src="untildawn2.gif">
   
