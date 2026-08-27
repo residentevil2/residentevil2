@@ -5,5 +5,5 @@
   
  <br>
 <h4 align="center">hi i need to add all my stamps back. whatever</h4> 
-<p align="center"> <image src="re1 2.png"><image src="beatles.png"><image src="fiona.gif"><image src="pathologic.gif"><image src="psychonaut4.gif"><image src="shadow.gif"><image src="sigma.gif"><image src="untildawn2.gif"><image src="kaneda.gif"><image src="tetsuo.gif"><image src="akira stamp.png"><image src="hi_henry.png"><image src="grimfandango.png"><image src="fob.png">
+<p align="center"> <image src="re1 2.png"><image src="fiona.gif"><image src="pathologic.gif"><image src="shadow.gif"><image src="sigma.gif"><image src="untildawn2.gif"><image src="kaneda.gif"><image src="tetsuo.gif"><image src="akira stamp.png"><image src="grimfandango.png"><image src="fob.png"><image src="beatles.png"><image src="psychonaut4.gif"><image src="hi_henry.png">
   
